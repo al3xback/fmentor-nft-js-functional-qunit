@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://al3xback.github.io/fmentor-nft-js-functional-jasmine/
+- Live Site URL: https://al3xback.github.io/fmentor-nft-js-functional-qunit/
 
 ## My process
 
