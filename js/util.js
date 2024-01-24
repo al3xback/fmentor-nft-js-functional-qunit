@@ -22,7 +22,11 @@ const createElement = (tag, className, text, attributes) => {
 const createHeaderEl = () => {
 	const headerEl = createElement('header');
 
-	const headerTitleEl = createElement('h1', 'sr-only', 'NFT preview card component');
+	const headerTitleEl = createElement(
+		'h1',
+		'sr-only',
+		'NFT preview card component'
+	);
 
 	headerEl.appendChild(headerTitleEl);
 
